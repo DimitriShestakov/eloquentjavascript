@@ -1,3 +1,18 @@
+- [Functions](#functions)
+  - [Defining a function](#defining-a-function)
+  - [Bindings and scopes](#bindings-and-scopes)
+  - [Nested scope](#nested-scope)
+  - [Functions as values](#functions-as-values)
+  - [Declaration notation](#declaration-notation)
+  - [Arrow functions](#arrow-functions)
+- [The call stack](#the-call-stack)
+  - [Optional Arguments](#optional-arguments)
+  - [Closure](#closure)
+  - [Recursion](#recursion)
+  - [Growing functions](#growing-functions)
+  - [Functions and side effects](#functions-and-side-effects)
+  - [Summary](#summary)
+
 # Functions
 >People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
 
