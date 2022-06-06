@@ -1,9 +1,9 @@
-- [Functions](#functions)
+- [Program Structure](#program-structure)
   - [Expressions and statements](#expressions-and-statements)
   - [Bindings](#bindings)
   - [Binding names](#binding-names)
   - [The environment](#the-environment)
-  - [Functions](#functions-1)
+  - [Functions](#functions)
   - [Return values](#return-values)
   - [Control flow](#control-flow)
   - [Indenting Code](#indenting-code)
@@ -13,7 +13,7 @@
   - [Comments](#comments)
   - [Summary](#summary)
 
-# Functions
+# Program Structure
 >And my heart glows bright red under my filmy, translucent skin and they have to administer 10cc of JavaScript to get me to come back. (I respond well to toxins in the blood.) Man, that stuff will kick the peaches right out your gills!
 
 --why, Why's (Poignant) Guide to Ruby
